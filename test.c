@@ -8,4 +8,5 @@ void main()
     c=a+b;
     printf("%d\n",c);
     printf("this is testing of git connection");
+    printf("second time test");
 }
