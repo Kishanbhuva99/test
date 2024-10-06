@@ -7,6 +7,6 @@ void main()
     int c;
     c=a+b;
     printf("%d\n",c);
-    printf("this is testing of git connection");
-    printf("second time test");
+    printf("this is testing of git connection\n");
+    printf("\tsecond time test");
 }
